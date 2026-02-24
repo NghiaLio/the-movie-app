@@ -12,6 +12,24 @@
 - Xem video tập phim với Chewie/Video Player, có lưu tiến trình xem.
 - Quản lý danh sách phim yêu thích (thêm/xóa, chọn nhiều).
 
+## Một số giao diện của ứng dụng
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f89e1fe3-689c-40e1-bf2a-dd418126c30f" width="200"/>
+  <img src="https://github.com/user-attachments/assets/ffa2e4ec-c545-4404-b343-c8b7dfe39910" width="200"/>
+  <img src="https://github.com/user-attachments/assets/577e3cd6-b862-46b4-8dee-a2eb552d27e9" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94963e90-4233-48c6-a4ed-55b1cfc73d8c" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e80f37ba-d87b-447e-91ae-db067919dd61" width="200"/>
+  <img src="https://github.com/user-attachments/assets/7014b8a3-626c-42ef-800a-ea66e1603ab4" width="200"/>
+</p>
+
+## 📱 Demo & Tải về  
+Video demo, file APK và tài khoản test có sẵn tại đây:  
+👉 [Google Drive](https://drive.google.com/drive/folders/1tPTn7Ws-l1Oz2UnsBEFUTeawFqI6jkAi?usp=sharing)
+
 ## Công nghệ sử dụng
 
 - Flutter + Dart
@@ -83,6 +101,3 @@ lib/
 - Dự án đang ưu tiên UI gọn và chỉ hiển thị các thành phần có chức năng thực tế.
 - Nếu API thay đổi schema hoặc endpoint, cần cập nhật lại phần Data/Repo tương ứng.
 
-## 📱 Demo & Tải về  
-Video demo, file APK và tài khoản test có sẵn tại đây:  
-👉 [Google Drive](https://drive.google.com/drive/folders/1tPTn7Ws-l1Oz2UnsBEFUTeawFqI6jkAi?usp=sharing) 
